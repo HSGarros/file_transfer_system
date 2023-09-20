@@ -1,0 +1,54 @@
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\bin\Debug\net7.0-windows\Servers.exe
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\bin\Debug\net7.0-windows\Servers.deps.json
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\bin\Debug\net7.0-windows\Servers.runtimeconfig.json
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\bin\Debug\net7.0-windows\Servers.dll
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\bin\Debug\net7.0-windows\Servers.pdb
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.csproj.AssemblyReference.cache
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.Server.resources
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.csproj.GenerateResource.cache
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.AssemblyInfoInputs.cache
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.AssemblyInfo.cs
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.csproj.CoreCompileInputs.cache
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.dll
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\refint\Servers.dll
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.pdb
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.genruntimeconfig.cache
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\ref\Servers.dll
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\bin\Debug\net7.0-windows\Servers.exe
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\bin\Debug\net7.0-windows\Servers.deps.json
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\bin\Debug\net7.0-windows\Servers.runtimeconfig.json
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\bin\Debug\net7.0-windows\Servers.dll
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\bin\Debug\net7.0-windows\Servers.pdb
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.csproj.AssemblyReference.cache
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.Server.resources
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.csproj.GenerateResource.cache
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.AssemblyInfoInputs.cache
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.AssemblyInfo.cs
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.csproj.CoreCompileInputs.cache
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.dll
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\refint\Servers.dll
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.pdb
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.genruntimeconfig.cache
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\ref\Servers.dll
+C:\Users\HSGarros\Desktop\727A1 - 副本\Servers\Servers\obj\Debug\net7.0-windows\Servers.Show.resources
+C:\Users\HSGarros\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.Show.resources
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\bin\Debug\net7.0-windows\Servers.exe
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\bin\Debug\net7.0-windows\Servers.deps.json
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\bin\Debug\net7.0-windows\Servers.runtimeconfig.json
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\bin\Debug\net7.0-windows\Servers.dll
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\bin\Debug\net7.0-windows\Servers.pdb
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.csproj.AssemblyReference.cache
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.Server.resources
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.Show.resources
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.csproj.GenerateResource.cache
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.AssemblyInfoInputs.cache
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.AssemblyInfo.cs
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.csproj.CoreCompileInputs.cache
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.dll
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\refint\Servers.dll
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.pdb
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\Servers.genruntimeconfig.cache
+C:\Users\qguo746\Desktop\727A1\Servers\Servers\obj\Debug\net7.0-windows\ref\Servers.dll

@@ -1,0 +1,11 @@
+C:\Users\HSGarros\Desktop\727A1\Servers\bin\Debug\Servers.exe.config
+C:\Users\HSGarros\Desktop\727A1\Servers\bin\Debug\Servers.exe
+C:\Users\HSGarros\Desktop\727A1\Servers\bin\Debug\Servers.pdb
+C:\Users\HSGarros\Desktop\727A1\Servers\obj\Debug\Servers.csproj.AssemblyReference.cache
+C:\Users\HSGarros\Desktop\727A1\Servers\obj\Debug\Servers.csproj.SuggestedBindingRedirects.cache
+C:\Users\HSGarros\Desktop\727A1\Servers\obj\Debug\Servers.FormS.resources
+C:\Users\HSGarros\Desktop\727A1\Servers\obj\Debug\Servers.Properties.Resources.resources
+C:\Users\HSGarros\Desktop\727A1\Servers\obj\Debug\Servers.csproj.GenerateResource.cache
+C:\Users\HSGarros\Desktop\727A1\Servers\obj\Debug\Servers.csproj.CoreCompileInputs.cache
+C:\Users\HSGarros\Desktop\727A1\Servers\obj\Debug\Servers.exe
+C:\Users\HSGarros\Desktop\727A1\Servers\obj\Debug\Servers.pdb
